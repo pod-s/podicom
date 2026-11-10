@@ -6,8 +6,17 @@
       "description": "اپلیکیشن پادیکام — نسخه وب (PWA) و اندروید (APK)",
       "createdAt": "2026-11-10T00:00:00.000Z",
       "platforms": [
-        { "key": "pwa", "name": "PWA (وب)", "versions": [] },
-        { "key": "apk", "name": "APK (اندروید)", "versions": [] }
+        {
+          "key": "pwa",
+          "name": "PWA (وب)",
+          "versions": []
+        },
+        {
+          "key": "apk",
+          "name": "APK (اندروید)",
+          "versions": [],
+          "visible": true
+        }
       ]
     }
   ]
