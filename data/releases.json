@@ -44,7 +44,21 @@
         {
           "key": "apk",
           "name": "APK",
-          "versions": [],
+          "versions": [
+            {
+              "version": "6.0.4",
+              "channel": "stable",
+              "env": "production",
+              "notes": "",
+              "file": {
+                "url": "https://pod-s.github.io/podicom/releases/paypod-apk-6.0.4/paypod-apk-6.0.4.apk",
+                "name": "paypod_6.0.4_site.apk",
+                "size": 24689903,
+                "tag": "paypod-apk-6.0.4"
+              },
+              "addedAt": "2026-11-10T11:09:06.882Z"
+            }
+          ],
           "visible": true
         }
       ],
