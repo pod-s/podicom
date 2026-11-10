@@ -10,7 +10,7 @@
           "key": "pwa",
           "name": "PWA (وب)",
           "versions": [],
-          "visible": true
+          "visible": false
         },
         {
           "key": "apk",
