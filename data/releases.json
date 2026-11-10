@@ -44,7 +44,8 @@
         {
           "key": "apk",
           "name": "APK",
-          "versions": []
+          "versions": [],
+          "visible": true
         }
       ],
       "visible": true
