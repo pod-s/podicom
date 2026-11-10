@@ -17,6 +17,14 @@
               "notes": "",
               "url": "https://podicom-test.fnpy.ir/",
               "addedAt": "2026-11-10T12:16:42.883Z"
+            },
+            {
+              "version": "web-2026-11-10-1548",
+              "channel": "stable",
+              "env": "staging",
+              "notes": "",
+              "url": "https://stgpodicom.fnpy.ir/",
+              "addedAt": "2026-11-10T12:18:49.132Z"
             }
           ],
           "visible": true
