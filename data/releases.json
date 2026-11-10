@@ -53,6 +53,21 @@
                 "tag": "podicom-apk-1.0.8"
               },
               "addedAt": "2026-11-10T11:05:56.429Z"
+            },
+            {
+              "version": "1.0.8-test",
+              "channel": "beta",
+              "env": "test",
+              "notes": "",
+              "file": {
+                "url": "https://pod-s.github.io/podicom/releases/podicom-apk-1.0.8-test/podicom-apk-1.0.8-test.apk.part000",
+                "name": "podicom_1.0.8-test.apk",
+                "size": 43652236,
+                "tag": "podicom-apk-1.0.8-test",
+                "parts": 2,
+                "encrypted": true
+              },
+              "addedAt": "2026-11-10T13:03:23.055Z"
             }
           ],
           "visible": true
