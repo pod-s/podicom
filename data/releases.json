@@ -60,6 +60,11 @@
             }
           ],
           "visible": true
+        },
+        {
+          "key": "pwa",
+          "name": "PWA",
+          "versions": []
         }
       ],
       "visible": true
