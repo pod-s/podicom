@@ -9,7 +9,16 @@
         {
           "key": "pwa",
           "name": "PWA (وب)",
-          "versions": [],
+          "versions": [
+            {
+              "version": "web-2026-11-10-1546",
+              "channel": "stable",
+              "env": "test",
+              "notes": "",
+              "url": "https://podicom-test.fnpy.ir/",
+              "addedAt": "2026-11-10T12:16:42.883Z"
+            }
+          ],
           "visible": true
         },
         {
