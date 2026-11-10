@@ -4,4 +4,6 @@
 
 - سایت: https://pod-s.github.io/podicom/
 - پنل ادمین: https://pod-s.github.io/podicom/#/admin
-- داده: `data/releases.json` + فایل‌های نسخه در **Releases** همین مخزن
+- داده: data/releases.json + فایل‌های نسخه در Releases همین مخزن
+
+آخرین استقرار: 2026-11-10T09:29:26Z
