@@ -80,6 +80,14 @@
               "notes": "",
               "url": "https://testpaypodweb.fnpy.ir/",
               "addedAt": "2026-11-10T12:04:35.618Z"
+            },
+            {
+              "version": "web-2026-11-10-1537",
+              "channel": "stable",
+              "env": "staging",
+              "notes": "",
+              "url": "https://stgpaypodweb.fnpy.ir/",
+              "addedAt": "2026-11-10T12:07:03.359Z"
             }
           ],
           "visible": true
