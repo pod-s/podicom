@@ -23,7 +23,13 @@
       "name": "پی‌پاد",
       "description": "",
       "createdAt": "2026-11-10T10:01:54.782Z",
-      "platforms": []
+      "platforms": [
+        {
+          "key": "apk",
+          "name": "APK",
+          "versions": []
+        }
+      ]
     }
   ]
 }
