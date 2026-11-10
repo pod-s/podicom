@@ -6,29 +6,8 @@
       "description": "اپلیکیشن پادیکام — نسخه وب (PWA) و اندروید (APK)",
       "createdAt": "2026-11-10T00:00:00.000Z",
       "platforms": [
-        {
-          "key": "pwa",
-          "name": "PWA (وب)",
-          "versions": []
-        },
-        {
-          "key": "apk",
-          "name": "APK (اندروید)",
-          "versions": []
-        }
-      ]
-    },
-    {
-      "slug": "paypod",
-      "name": "پی‌پاد",
-      "description": "",
-      "createdAt": "2026-11-10T10:01:54.782Z",
-      "platforms": [
-        {
-          "key": "apk",
-          "name": "APK",
-          "versions": []
-        }
+        { "key": "pwa", "name": "PWA (وب)", "versions": [] },
+        { "key": "apk", "name": "APK (اندروید)", "versions": [] }
       ]
     }
   ]
