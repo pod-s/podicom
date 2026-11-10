@@ -40,7 +40,8 @@
       "name": "پی‌پاد",
       "description": "",
       "createdAt": "2026-11-10T11:07:11.544Z",
-      "platforms": []
+      "platforms": [],
+      "visible": true
     }
   ]
 }
