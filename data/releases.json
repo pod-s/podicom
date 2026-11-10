@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "slug": "padicom",
+      "slug": "podicom",
       "name": "پادیکام",
       "description": "اپلیکیشن پادیکام — نسخه وب (PWA) و اندروید (APK)",
       "createdAt": "2026-11-10T00:00:00.000Z",
@@ -47,10 +47,10 @@
               "env": "production",
               "notes": "",
               "file": {
-                "url": "https://pod-s.github.io/podicom/releases/padicom-apk-1.0.8/padicom-apk-1.0.8.apk",
+                "url": "https://pod-s.github.io/podicom/releases/podicom-apk-1.0.8/podicom-apk-1.0.8.apk",
                 "name": "podicom_1.0.8_site.apk",
                 "size": 29111656,
-                "tag": "padicom-apk-1.0.8"
+                "tag": "podicom-apk-1.0.8"
               },
               "addedAt": "2026-11-10T11:05:56.429Z"
             }
