@@ -15,7 +15,21 @@
         {
           "key": "apk",
           "name": "APK (اندروید)",
-          "versions": [],
+          "versions": [
+            {
+              "version": "1.0.8",
+              "channel": "stable",
+              "env": "production",
+              "notes": "",
+              "file": {
+                "url": "https://pod-s.github.io/podicom/releases/padicom-apk-1.0.8/padicom-apk-1.0.8.apk",
+                "name": "podicom_1.0.8_site.apk",
+                "size": 29111656,
+                "tag": "padicom-apk-1.0.8"
+              },
+              "addedAt": "2026-11-10T11:05:56.429Z"
+            }
+          ],
           "visible": true
         }
       ],
