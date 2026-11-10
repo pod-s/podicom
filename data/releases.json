@@ -25,6 +25,14 @@
               "notes": "",
               "url": "https://stgpodicom.fnpy.ir/",
               "addedAt": "2026-11-10T12:18:49.132Z"
+            },
+            {
+              "version": "web-2026-11-10-1552",
+              "channel": "stable",
+              "env": "production",
+              "notes": "",
+              "url": "http://app.podicom.ir/",
+              "addedAt": "2026-11-10T12:22:16.465Z"
             }
           ],
           "visible": true
