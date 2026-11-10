@@ -16,7 +16,7 @@
           "key": "apk",
           "name": "APK (اندروید)",
           "versions": [],
-          "visible": false
+          "visible": true
         }
       ],
       "visible": true
