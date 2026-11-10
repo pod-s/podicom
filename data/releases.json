@@ -72,6 +72,14 @@
               "notes": "",
               "url": "https://web.pay-pod.ir/",
               "addedAt": "2026-11-10T11:57:34.869Z"
+            },
+            {
+              "version": "web-2026-11-10-1534",
+              "channel": "stable",
+              "env": "test",
+              "notes": "",
+              "url": "https://testpaypodweb.fnpy.ir/",
+              "addedAt": "2026-11-10T12:04:35.618Z"
             }
           ],
           "visible": true
