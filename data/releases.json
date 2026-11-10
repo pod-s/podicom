@@ -64,7 +64,16 @@
         {
           "key": "pwa",
           "name": "PWA",
-          "versions": [],
+          "versions": [
+            {
+              "version": "web-2026-11-10-1527",
+              "channel": "stable",
+              "env": "production",
+              "notes": "",
+              "url": "https://web.pay-pod.ir/",
+              "addedAt": "2026-11-10T11:57:34.869Z"
+            }
+          ],
           "visible": true
         }
       ],
