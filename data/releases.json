@@ -64,7 +64,8 @@
         {
           "key": "pwa",
           "name": "PWA",
-          "versions": []
+          "versions": [],
+          "visible": true
         }
       ],
       "visible": true
