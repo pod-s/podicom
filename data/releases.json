@@ -65,7 +65,8 @@
                 "size": 43652236,
                 "tag": "podicom-apk-1.0.8-test",
                 "parts": 2,
-                "encrypted": true
+                "encrypted": true,
+                "check": "p79E7/+QuTEW1LRzAzOvT4jDdQ6+El/bleWDD03Cvn0VWf4Uw45Ax7lUuDVTpkSMNPJOtmbr+PebRnyt"
               },
               "addedAt": "2026-11-10T13:03:23.055Z"
             }
