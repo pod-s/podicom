@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex" />
+    <title>نسخه‌های اپلیکیشن‌ها</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;700&display=swap"
+    />
+    <script>
+      // مسیرهای کوتاه — /podicom/paypod → صفحه پروژه پی‌پاد
+      // (ترفند استاندارد SPA روی GitHub Pages: صفحه ۴۰۴ سفارشی ریدایرکت می‌کند)
+      (function () {
+        var base = "/podicom/";
+        var path = location.pathname;
+        var rest = path.indexOf(base) === 0 ? path.slice(base.length) : "";
+        rest = rest.replace(/\/+$/, "");
+        var map = {
+          "podicom": "#/project/podicom",
+          "paypod": "#/project/paypod",
+          "admin": "#/admin",
+        };
+        var target = map[rest];
+        if (!target) {
+          // مسیر ناشناخته → صفحه اصلی
+          location.replace(base);
+          return;
+        }
+        location.replace(base + target);
+      })();
+    </script>
+  </head>
+  <body style="font-family: Vazirmatn, sans-serif; background: #f4f4f5; display: flex; align-items: center; justify-content: center; min-height: 100vh; margin: 0; color: #3f3f46">
+    <a href="/podicom/" style="color: #2563eb">در حال انتقال… اگر منتقل نشدی اینجا کلیک کن</a>
+  </body>
+</html>
