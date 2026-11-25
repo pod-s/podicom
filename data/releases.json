@@ -74,6 +74,20 @@
               },
               "addedAt": "2026-11-10T13:03:23.055Z",
               "publisher": "صادق"
+            },
+            {
+              "version": "1.0.8(1.903.141)",
+              "channel": "beta",
+              "env": "test",
+              "notes": "1. پرداخت nfc\n2. موجودی nfc\n3. پرداخت QR Consumer\n4. پرداخت QR Merhant",
+              "publisher": "محمدی",
+              "file": {
+                "url": "https://pod-s.github.io/podicom/releases/podicom-apk-1.0.8(1.903.141)/podicom-apk-1.0.8(1.903.141).apk",
+                "name": "podicom_1.0.8-softpos.apk",
+                "size": 36284757,
+                "tag": "podicom-apk-1.0.8(1.903.141)"
+              },
+              "addedAt": "2026-11-25T12:03:22.267Z"
             }
           ],
           "visible": true
