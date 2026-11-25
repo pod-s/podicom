@@ -59,23 +59,6 @@
               "publisher": "صادق"
             },
             {
-              "version": "1.0.8-test",
-              "channel": "beta",
-              "env": "test",
-              "notes": "",
-              "file": {
-                "url": "https://pod-s.github.io/podicom/releases/podicom-apk-1.0.8-test/podicom-apk-1.0.8-test.apk.part000",
-                "name": "podicom_1.0.8-test.apk",
-                "size": 43652236,
-                "tag": "podicom-apk-1.0.8-test",
-                "parts": 2,
-                "encrypted": true,
-                "check": "p79E7/+QuTEW1LRzAzOvT4jDdQ6+El/bleWDD03Cvn0VWf4Uw45Ax7lUuDVTpkSMNPJOtmbr+PebRnyt"
-              },
-              "addedAt": "2026-11-10T13:03:23.055Z",
-              "publisher": "صادق"
-            },
-            {
               "version": "1.0.8(1.903.141)",
               "channel": "beta",
               "env": "test",
